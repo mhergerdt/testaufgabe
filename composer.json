@@ -9,7 +9,8 @@
         "symfony/dotenv": "*",
         "symfony/flex": "^1.1",
         "symfony/framework-bundle": "*",
-        "symfony/yaml": "*"
+        "symfony/yaml": "*",
+        "moneyphp/money": "^3.2"
     },
     "require-dev": {
       "symfony/phpunit-bridge": "*"
